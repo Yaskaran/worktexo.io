@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Worktexo
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Name: Worktexo Technologies
+URL: https://github.com/Yaskaran/worktexo.io
+Author: Yaskaran
+Author URL: https://github.com/Yaskaran
